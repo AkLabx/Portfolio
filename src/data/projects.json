@@ -1,0 +1,152 @@
+[
+  {
+    "title": "MindFlow",
+    "description": "An intelligent knowledge engine and educational app for SSC CGL, NTPC, and BPSC. It uses adaptive learning to make complex topics feel like play.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/mindflow/800/600",
+    "tech_stack": ["React", "JavaScript", "Tailwind CSS"],
+    "live_url": "https://aklabx.github.io/MindFlow/",
+    "source_url": "https://github.com/AkLabx/MindFlow",
+    "is_featured": true
+  },
+  {
+    "title": "BharatItihas - Indian History",
+    "description": "An interactive Indian history timeline PWA. It features an immersive native app experience built with rich visualizations and AI.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/history/800/600",
+    "tech_stack": ["React", "Vite", "Recharts", "Google GenAI"],
+    "live_url": "https://aklabx.github.io/TimelineHistory/",
+    "source_url": "https://github.com/AkLabx/TimelineHistory",
+    "is_featured": false
+  },
+  {
+    "title": "Personal Diary App",
+    "description": "A feature-rich journaling app with a distraction-free UI. It includes rich-text editing, secure Supabase backend, and PDF/Zip export capabilities.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/diary/800/600",
+    "tech_stack": ["React", "Supabase", "Tailwind CSS"],
+    "live_url": "https://aklabx.github.io/diary/",
+    "source_url": "https://github.com/AkLabx/diary",
+    "is_featured": false
+  },
+  {
+    "title": "CGL Hustle",
+    "description": "A comprehensive preparation platform for SSC CGL aspirants. It offers detailed quizzes on Maths, English, Reasoning, GK, and Computer knowledge.",
+    "category": "Websites",
+    "preview_url": "https://picsum.photos/seed/cgl/800/600",
+    "tech_stack": ["HTML", "CSS", "JavaScript"],
+    "live_url": "https://cglhustle.free.nf/",
+    "source_url": "",
+    "is_featured": true
+  },
+  {
+    "title": "QuizLM React App",
+    "description": "The modern React frontend for the QuizLM project. It provides a dynamic interface for interactive quiz generation and taking.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/quizlm/800/600",
+    "tech_stack": ["React", "Tailwind CSS", "JavaScript"],
+    "live_url": "",
+    "source_url": "https://github.com/AkLabx/Quiz-LM-React",
+    "is_featured": true
+  },
+  {
+    "title": "EduGuide Platform",
+    "description": "An educational guide and counseling platform built to assist students in their learning journey and exam preparation.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/eduguide/800/600",
+    "tech_stack": ["React", "JavaScript", "CSS"],
+    "live_url": "",
+    "source_url": "https://github.com/AkLabx/EduGuide",
+    "is_featured": true
+  },
+  {
+    "title": "Developer Portfolio",
+    "description": "My personal developer portfolio website. It showcases my projects, coding skills, and professional journey beautifully.",
+    "category": "Websites",
+    "preview_url": "https://picsum.photos/seed/portfolio/800/600",
+    "tech_stack": ["React", "Tailwind CSS", "Vite"],
+    "live_url": "https://aklabx.github.io/Portfolio/",
+    "source_url": "https://github.com/AkLabx/Portfolio",
+    "is_featured": false
+  },
+  {
+    "title": "QuizLM Official Website",
+    "description": "The main landing page and web platform for QuizLM. It showcases features and provides access to interactive quizzes.",
+    "category": "Websites",
+    "preview_url": "https://picsum.photos/seed/quizlmweb/800/600",
+    "tech_stack": ["HTML", "CSS", "JavaScript"],
+    "live_url": "https://quizlm.github.io/",
+    "source_url": "https://github.com/QuizLM/quizlm.github.io",
+    "is_featured": true
+  },
+  {
+    "title": "Interactive Flipbook",
+    "description": "A highly engaging digital flipbook experience designed to let users read through study materials and generated quizzes.",
+    "category": "Creative Work",
+    "preview_url": "https://picsum.photos/seed/flipbook/800/600",
+    "tech_stack": ["HTML", "CSS", "JavaScript"],
+    "live_url": "https://quizlm.github.io/flipbook/",
+    "source_url": "https://github.com/QuizLM/flipbook",
+    "is_featured": false
+  },
+  {
+    "title": "QuizLM School Module",
+    "description": "An educational management and assignment module dedicated specifically to school-level learning and quiz interactions.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/school/800/600",
+    "tech_stack": ["React", "Node.js"],
+    "live_url": "",
+    "source_url": "https://github.com/QuizLM/School",
+    "is_featured": false
+  },
+  {
+    "title": "PDF Utility Tools",
+    "description": "A collection of helpful scripts and tools for parsing, generating, and manipulating PDF documents directly in the browser.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/pdf/800/600",
+    "tech_stack": ["JavaScript", "jsPDF"],
+    "live_url": "",
+    "source_url": "https://github.com/AkLabx/pdf",
+    "is_featured": false
+  },
+  {
+    "title": "Question Bank API",
+    "description": "A dedicated repository for managing, storing, and serving the underlying question bank data for quizzes.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/api/800/600",
+    "tech_stack": ["Node.js", "JSON"],
+    "live_url": "",
+    "source_url": "https://github.com/AkLabx/question",
+    "is_featured": false
+  },
+  {
+    "title": "QuizLM Timeline",
+    "description": "A visual timeline module for QuizLM to track historical educational events and user quiz history interactively.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/timeline/800/600",
+    "tech_stack": ["React", "JavaScript", "Recharts"],
+    "live_url": "https://quizlm.github.io/Timeline/",
+    "source_url": "https://github.com/QuizLM/Timeline",
+    "is_featured": false
+  },
+  {
+    "title": "Digital Footprint Tracker",
+    "description": "An experimental tool to trace digital footprints, track user activity history, and analyze web data.",
+    "category": "Apps",
+    "preview_url": "https://picsum.photos/seed/footprint/800/600",
+    "tech_stack": ["JavaScript", "HTML"],
+    "live_url": "",
+    "source_url": "https://github.com/AkLabx/Footprint-",
+    "is_featured": false
+  },
+  {
+    "title": "Global UI Assets",
+    "description": "A centralized repository containing static assets like images, icons, illustrations, and fonts used across all my projects.",
+    "category": "Creative Work",
+    "preview_url": "https://picsum.photos/seed/assets/800/600",
+    "tech_stack": ["Static Assets", "Design"],
+    "live_url": "",
+    "source_url": "https://github.com/AkLabx/assests",
+    "is_featured": false
+  }
+]
