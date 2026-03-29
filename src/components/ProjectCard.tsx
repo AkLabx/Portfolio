@@ -16,7 +16,7 @@ interface Project {
 export default function ProjectCard({ project }: { project: Project }) {
   const [copied, setCopied] = useState(false);
 
-  const handleShare = (e: React.MouseEvent) => {
+  const handleShare = (e: import("react").MouseEvent) => {
     e.stopPropagation();
     const url = project.live_url || project.source_url || window.location.href;
     if (navigator.share) {
